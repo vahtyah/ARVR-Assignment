@@ -25,5 +25,15 @@ MonoBehaviour:
       m_GuidHigh: 2122327234770395643
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
-    m_Name: AKM -10
+    m_Name: gun
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5217475661034585039
+      m_GuidHigh: 8881550780882765739
+    m_SerializedTextureGuid:
+      m_GuidLow: 12201451065239577675
+      m_GuidHigh: 5323811381020901882
+    m_Size: {x: 0.1, y: 0.12156863}
+    m_SpecifySize: 1
+    m_Name: cube
     m_Texture: {fileID: 0}
